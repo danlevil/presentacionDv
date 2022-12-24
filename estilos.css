@@ -1,0 +1,45 @@
+body{
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    position: absolute;
+    background-image: url("imgs/576167.png");
+}
+
+#introduccion{
+    
+    float: left;
+    text-align: left;
+    position: relative;
+    margin-left: 30px;
+    padding: auto;
+    
+}
+#imagen1{
+    float: left;
+    position: relative;
+    margin-right: 200px;
+    padding: auto;
+    margin-left: 30px;
+    
+    
+}
+#video1{
+    float: left;
+    clear: both;
+    margin-left: 30px;
+    padding: auto; 
+}
+#intereses{
+    
+    float:left;
+    margin-right: 200px;
+    margin-left: 50px;
+    
+}
+#paises{
+    float:left;
+    margin-right: 200px;
+    margin-left: 50px;
+}
